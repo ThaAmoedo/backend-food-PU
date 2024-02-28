@@ -27,5 +27,18 @@ A tela inicial do aplicativo destina-se à autenticação. Ao efetuar login como
 ## Acesso:
 https://food-explorer-02.netlify.app/ </br>
 
+## Contas:
+Name: Thais </br>
+email: tha.amoedo@gmail.com </br>
+password: 123456 </br> 
+</br>
+Name: Erick </br>
+email: ck.amoedo@gmail.com </br>
+password: 123456 </br> 
+</br>
+Name: Yuri </br>
+email: yu.amoedo@gmail.com </br>
+password: 123456 </br> 
+
 ## Local: </br>
 http://localhost:8080/</br>
